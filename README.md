@@ -69,4 +69,4 @@ Further research could include:
 
 Below is an embedded version of `index.html`, which contains the interactive geographical visualization for a deeper analysis:
 
-[![Interactive Geographical Visualization](https://via.placeholder.com/600x400?text=View+Interactive+Visualization)](https://laurauguc.github.io/cross-voting/)
+[![Interactive Geographical Visualization](voting_participation.jpeg)](https://laurauguc.github.io/cross-voting/)
