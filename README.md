@@ -61,3 +61,14 @@ Further research could include:
 - **Investigating the impact of socio-economic factors** on voter behavior more deeply.
 - **Integrating more detailed demographic data** for a comprehensive analysis.
 - **Statistically analyze the visual voting patterns** to understand Statistical significance levels.
+
+
+---
+
+## Interactive Visualization
+
+Below is an embedded version of `index.html`, which contains the interactive geographical visualization for a deeper analysis:
+
+```html
+<iframe src="index.html" width="100%" height="600px"></iframe>
+```
