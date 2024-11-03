@@ -69,6 +69,4 @@ Further research could include:
 
 Below is an embedded version of `index.html`, which contains the interactive geographical visualization for a deeper analysis:
 
-```html
-<iframe src="index.html" width="100%" height="600px"></iframe>
-```
+![Interactive Geographical Visualization](index.html)
