@@ -14,7 +14,7 @@ This project aims to shed light on these complex voting dynamics through interac
 
 ## Key Findings
 
-- **Distinct Voting Patterns**: The analysis revealed that while Morena gained significant support at the federal level, this did not consistently translate to local races. Voters in affluent neighborhoods exhibited strong support for conservative candidates across both federal and local elections, aligning with traditional party preferences.
+- **Distinct Voting Patterns**: The analysis revealed that while Morena gained significant support at the federal level, this did not consistently translate to local races. Voters in affluent neighborhoods exhibited strong support for conservative candidates across both federal and local levels, aligning with traditional party preferences.
 - **Contrasting Local vs. Federal Support**: Less affluent areas demonstrated robust support for Claudia Sheinbaum at the federal level but chose conservative candidates, especially from PAN, in local elections.
 - **Strategic Implications**: These insights highlight that Morena’s strong brand at the federal level does not automatically convert to local success. This suggests regional dynamics and voter preferences play a critical role, emphasizing the importance of tailored campaign strategies for local elections.
 
@@ -41,7 +41,7 @@ OR: view the output visualizations at this site: https://laurauguc.github.io/cro
 
 ## How to Interpret the Visualizations
 
-- **Federal vs. Local Support**: Use the map tabs to toggle between voter participations, the difference between federal and local results, and the difference between diputados and local results.
+- **Federal vs. Local Support**: Use the map tabs to toggle between voter participations, the difference between federal and local results, and the difference between local congressmen and local results.
 - **Neighborhood Analysis**: Hover over regions on the map to view detailed voting statistics, revealing socio-economic voting patterns.
 - **Cross-Voting Indicators**: Special color-coding highlights areas where voters showed significant divergence between federal and local preferences.
 
