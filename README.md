@@ -7,7 +7,7 @@ The interactive maps are available here: https://laurauguc.github.io/cross-votin
 ## Project Context
 
 The 2024 election cycle was historically significant for several reasons:
-- **Claudia Sheinbaum's Candidacy**: Sheinbaum became the first woman to run for the presidency in Mexico and achieved the largest landslide victory in the country's history.
+- **Claudia Sheinbaum's Candidacy**: Sheinbaum became the first woman to win the presidency in Mexico and achieved the largest landslide victory in the country's history.
 - **Cross-Voting Patterns**: Despite Morena's substantial national-level success, cross-voting behaviors were observed in Hermosillo, where voters chose conservative candidates locally.
 
 This project aims to shed light on these complex voting dynamics through interactive mapping.
