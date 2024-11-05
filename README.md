@@ -1,6 +1,6 @@
 # Hermosillo Election Results Visualization Project
 
-This project is a Python-based interactive tool developed in Google Colab to visualize and analyze election results in Hermosillo, Mexico. The primary focus is on exploring cross-voting behavior in the 2024 elections, where voters supported Claudia Sheinbaum, the progressive Morena party candidate, at the national level but favored the far-right PAN candidate at the local level.
+This project is a Python-based interactive tool developed with Python in Google Colab to visualize and analyze election results in Hermosillo, Mexico. The primary focus is on exploring cross-voting behavior in the 2024 elections, where voters supported Claudia Sheinbaum, the progressive Morena party candidate, in the presidential race but favored the conservative PAN candidate for the mayoral race.
 
 The interactive maps are available here: https://laurauguc.github.io/cross-voting/
 
@@ -14,9 +14,11 @@ This project aims to shed light on these complex voting dynamics through interac
 
 ## Key Findings
 
-- **Distinct Voting Patterns**: The analysis revealed that while Morena gained significant support at the federal level, this did not consistently translate to local races. Voters in affluent neighborhoods exhibited strong support for conservative candidates across both federal and local levels, aligning with traditional party preferences.
-- **Contrasting Local vs. Federal Support**: Less affluent areas demonstrated robust support for Claudia Sheinbaum at the federal level but chose conservative candidates, especially from PAN, in local elections.
-- **Strategic Implications**: These insights highlight that Morena’s strong brand at the federal level does not automatically convert to local success. This suggests regional dynamics and voter preferences play a critical role, emphasizing the importance of tailored campaign strategies for local elections.
+- **Distinct Voting Patterns**:  The analysis reveals a significant cross-voting trend in Hermosillo, with varying levels of support for the Morena party between federal and local races. Wealthier neighborhoods consistently favored conservative candidates at all levels, indicating a strong preference for traditional party alignments.
+
+- **Contrasting Local vs. Federal Support**  In less affluent areas, voters demonstrated robust support for Morena in both the presidential and local congressional races, benefiting from the party's increasing popularity and national momentum. However, they chose conservative candidates for the mayoral position, highlighting a divergence in voting behavior.
+
+- **Strategic Implications**: These insights underscore that Morena's strong federal brand does not necessarily translate uniformly into local electoral success. While local congressional races are influenced by this branding, it lacks the same impact in mayoral contests, where candidates are more familiar to voters and possess their unique identities. This suggests that regional dynamics and voter preferences are critical, emphasizing the need for tailored campaign strategies in local elections.ynamics and voter preferences play a critical role, emphasizing the importance of tailored campaign strategies for local elections.
 
 ## Project Features
 
@@ -41,14 +43,14 @@ OR: view the output visualizations at this site: https://laurauguc.github.io/cro
 
 ## How to Interpret the Visualizations
 
-- **Federal vs. Local Support**: Use the map tabs to toggle between voter participations, the difference between federal and local results, and the difference between local congressmen and local results.
+- **Federal vs. Local Support**: Use the map tabs to toggle between voter participations, the difference between presidential and mayoral results, and the difference between local congress and mayoral results.
 - **Neighborhood Analysis**: Hover over regions on the map to view detailed voting statistics, revealing socio-economic voting patterns.
 - **Cross-Voting Indicators**: Special color-coding highlights areas where voters showed significant divergence between federal and local preferences.
 
 ## Conclusions and Implications
 
 This analysis underscores the complex voter behavior in Hermosillo:
-- Morena’s federal appeal is not fully mirrored in local-level elections.
+- Morena’s federal appeal is not fully mirrored in local-level elections. It impacts local congressional races but to a much lesser degree mayoral contests, where candidates are more familiar to voters and possess their unique identities. 
 - Strategic campaign efforts must address these disparities to bolster local support.
 - Conservative parties may find opportunities to consolidate their presence in local elections despite shifting national trends.
 
