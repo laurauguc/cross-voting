@@ -1,4 +1,4 @@
-# Hermosillo Election Results Visualization Project
+# Hermosillo Election Results Visualization Project, 2024
 
 This project is a Python-based interactive tool developed with Python in Google Colab to visualize and analyze election results in Hermosillo, Mexico. The primary focus is on exploring cross-voting behavior in the 2024 elections, where voters supported Claudia Sheinbaum, the progressive Morena party candidate, in the presidential race but favored the conservative PAN candidate for the mayoral race.
 
