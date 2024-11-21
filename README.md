@@ -2,7 +2,9 @@
 
 This project is a Python-based interactive tool developed with Python in Google Colab to visualize and analyze election results in Hermosillo, Mexico. The primary focus is on exploring cross-voting behavior in the 2024 elections, where voters supported Claudia Sheinbaum, the progressive Morena party candidate, in the presidential race but favored the conservative PAN candidate for the mayoral race.
 
-The interactive maps are available here: https://laurauguc.github.io/cross-voting/
+The result of this analysis is an interactive map. Click image below to view.
+
+[<img src="voting_participation.jpeg" alt="Interactive Geographical Visualization" width="600">](https://laurauguc.github.io/cross-voting/)
 
 ## Project Context
 
@@ -66,12 +68,3 @@ Further research could include:
 - **Statistically analyze the visual voting patterns** to understand Statistical significance levels.
 
 
----
-
-## Interactive Visualization
-
-Below is an embedded version of `index.html`, which contains the interactive geographical visualization for a deeper analysis:
-
-Click on the image.
-
-[![Interactive Geographical Visualization](voting_participation.jpeg)](https://laurauguc.github.io/cross-voting/)
