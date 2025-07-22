@@ -9,7 +9,7 @@ The result of this analysis is an interactive map. Click image below to navigate
 ## Project Context
 
 The 2024 election cycle was historically significant for several reasons:
-- **Claudia Sheinbaum's Candidacy**: Sheinbaum became the first woman to win the presidency in Mexico and achieved the largest landslide victory in the country's history.
+- **Claudia Sheinbaum's Candidacy**: Sheinbaum became the first woman to win the presidency in Mexico and achieved the largest landslide victory in the country's history, with 61.18% of the vote—more than twice that of the runner-up, Xóchitl Gálvez, who garnered 28.11%.
 - **Cross-Voting Patterns**: Despite Morena's substantial national-level success, cross-voting behaviors were observed in Hermosillo, where voters chose a conservative mayor.
 - **Defying the Global Anti-Incumbent Wave:** Mexico stood out as an exception to the anti-incumbent sentiment that reshaped leadership across Latin America and the world. Despite Morena’s status as the incumbent party, it secured victory after a wave of 20 consecutive losses for incumbents across the region. This trend included recent elections in the United States and extended from countries like the United Kingdom and Botswana to India, North Macedonia, South Korea, and South Africa. It also followed last year’s voter shifts in Poland and Argentina, where incumbents were unseated.
 
